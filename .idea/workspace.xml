@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0606a3e1-f8f1-4108-bb21-dd4a46ba0075" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JEEDemo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JEEDemo1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +30,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -57,7 +57,19 @@
       <option name="presentableId" value="Default" />
       <updated>1584684904795</updated>
     </task>
+    <task id="LOCAL-00001" summary="git ignore">
+      <created>1585422432394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585422432394</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#Project_Structure" timestamp="1585312721783">
@@ -72,10 +84,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1585314367938" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1585404852795">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1585422431797">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585404852795" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585422431797" />
     <state x="129" y="55" key="DiffContextDialog" timestamp="1585394423910">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -120,13 +132,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="218" key="MavenRunHelper.GoalEditor/0.0.1366.728@0.0.1366.728" timestamp="1585312676442" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1585314338929">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1585422530351">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585314338929" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1585394428199">
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585422530351" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1585422576157">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585394428199" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585422576157" />
+    <state x="498" y="243" key="git4idea.rebase.GitRebaseDialog" timestamp="1585422513852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="498" y="243" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1585422513852" />
   </component>
 </project>
